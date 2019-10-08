@@ -1,0 +1,11 @@
+C:\Users\alexcorson\Documents\C#2019\assessment1\bin\Debug\netcoreapp2.1\assessment1.deps.json
+C:\Users\alexcorson\Documents\C#2019\assessment1\bin\Debug\netcoreapp2.1\assessment1.runtimeconfig.json
+C:\Users\alexcorson\Documents\C#2019\assessment1\bin\Debug\netcoreapp2.1\assessment1.runtimeconfig.dev.json
+C:\Users\alexcorson\Documents\C#2019\assessment1\bin\Debug\netcoreapp2.1\assessment1.dll
+C:\Users\alexcorson\Documents\C#2019\assessment1\bin\Debug\netcoreapp2.1\assessment1.pdb
+C:\Users\alexcorson\Documents\C#2019\assessment1\obj\Debug\netcoreapp2.1\assessment1.csprojAssemblyReference.cache
+C:\Users\alexcorson\Documents\C#2019\assessment1\obj\Debug\netcoreapp2.1\assessment1.csproj.CoreCompileInputs.cache
+C:\Users\alexcorson\Documents\C#2019\assessment1\obj\Debug\netcoreapp2.1\assessment1.AssemblyInfoInputs.cache
+C:\Users\alexcorson\Documents\C#2019\assessment1\obj\Debug\netcoreapp2.1\assessment1.AssemblyInfo.cs
+C:\Users\alexcorson\Documents\C#2019\assessment1\obj\Debug\netcoreapp2.1\assessment1.dll
+C:\Users\alexcorson\Documents\C#2019\assessment1\obj\Debug\netcoreapp2.1\assessment1.pdb
