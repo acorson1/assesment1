@@ -1,0 +1,9 @@
+start
+
+	write "enter a whole number for the length of a cube side in cm";
+	int side = read;
+
+	int volume = side * side * side;
+
+	write "the volume is " volume"cm"; 
+end
